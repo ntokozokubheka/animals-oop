@@ -1,0 +1,14 @@
+{
+  "name": "Ntokozo-Kubheka-224-animals-part-1-oop-basics-javascript",
+  "version": "1.0.0",
+  "description": "Animals OOP Umuzi challenge ",
+  "main": "animals.js",
+  "scripts": {
+    "test": "jasmine "
+  },
+  "author": "Ntokozo H. Kubheka",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
